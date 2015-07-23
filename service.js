@@ -18,3 +18,10 @@ app.service('mainService', function($http, $q) {
   }
 
 });
+
+
+// for choosing specific things from the data(response) 
+//// var dataObj = {};
+//// for in (loop) {
+//    dataObj.names = loop[i]
+//}
